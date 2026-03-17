@@ -1,4 +1,4 @@
-Prodigy InfoTech Data Science Internship
+PRODIGY_DS_02
 
 Task 02: Data Cleaning and Exploratory Data Analysis (EDA)
 
